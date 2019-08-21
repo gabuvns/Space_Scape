@@ -3,18 +3,8 @@ Aluno:Carlos Gabriel Vilas Novas Soares
 Spa|c|e             
   S|c|ape 
     Jogo baseado em "River Raid"
-
-    Versao GCC: gcc (Ubuntu 5.4.0-6ubuntu1~16.04.9) 5.4.0 20160609 
-    Parametros : gcc -Wall -ansi -o 180056298_01 180056298_01.c
     
-    Obs: Existem warnings quanto as cores e quanto a funcao usleep().
-
-    Extras adicionados ao jogo:
-    1-Cores, incluindo a cor do hud e dos personagens;
-    2-Tiro tipo laser;
-    3-Diferentes 'finais' de jogo;
-    4-Funcao para pausar o jogo;
-    5- Animacao de entrada.
+  
     
     Mecanicas de jogo:
 
@@ -50,4 +40,6 @@ Spa|c|e
     4- Ao pressionar "p", o jogo é pausado.
     
     5- Foi criada uma animacao no inicio do jogo.
+    
+    Obs: Existem warnings quanto as cores e quanto a funcao usleep().
     
